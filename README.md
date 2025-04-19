@@ -35,3 +35,28 @@ npm install
 # Create a .env file and add your MongoDB connection string like:
 # MONGO_URI=your_mongodb_uri_here
 npm start
+
+### Frontend (React)
+
+```bash
+cd client
+npm install
+npm start
+
+## 📁 Project Folder Structure
+
+smart-farming-mern/
+├── client/
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── App.js
+│   │   └── ...
+├── server/
+│   ├── models/
+│   ├── routes/
+│   ├── .env
+│   └── server.js
+├── README.md
+├── architecture.png
+
