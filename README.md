@@ -58,9 +58,5 @@ smart-farming-mern/
 │   ├── .env
 │   └── server.js
 ├── README.md
-├── architecture.png
+├── architecture.png ```
 
-### Developed By
-**Elgin** – B.Tech Artificial Intelligence & Machine Learning (2nd Year)
-
-This is a full-stack academic project to promote sustainable farming through digitization.
